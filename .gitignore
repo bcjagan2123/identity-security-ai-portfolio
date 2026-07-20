@@ -1,0 +1,22 @@
+# Environment & secrets
+.env
+*.pem
+*.key
+credentials.json
+
+# Client-specific / confidential (rename before adding real files)
+**/client-config/
+**/*-confidential*
+
+# Node
+node_modules/
+dist/
+build/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
