@@ -27,7 +27,7 @@
 ### AI Developer
 - **[IIQ AI Agent (NLP Governance)](./ai-developer/iiq-ai-agent-nlp-governance)** — Natural language identity governance queries over IIQ: REST plugin (JAX-RS/BeanShell), NLP/API gateway (Express, LLM function-calling, Redis), security hardening, React + Teams chat UI
 - **[MCP Server for Claude + IIQ](./ai-developer/mcp-server-claude-iiq)** — On-prem Windows Server MCP server connecting Claude Desktop/Code to IIQ
-- **[IAM Dashboard](./ai-developer/iam-dashboard)** — HTML dashboard with Corp/Partner Identity Platform views, KPI cards, and export tooling
+- **[IAM Dashboard](./ai-developer/iam-dashboard)** — HTML dashboard with Identity Platform views, KPI cards, and export tooling
 
 ### Blockchain
 - **[Decentralized Identity POC](./blockchain/02-decentralized-identity-poc)** — Applying DID/Verifiable Credential standards to IAM use cases (in progress)
